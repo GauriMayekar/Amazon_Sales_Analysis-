@@ -38,5 +38,5 @@ Recognition of top revenue-generating and top-rated products to focus efforts an
 Better understanding of customer preferences and satisfaction through analysis of reviews.
 
 ## Conclusion
-Implementing these visualizations will provide a comprehensive view of sales performance, helping stakeholders make informed decisions to drive business growth. The project will leverage GitHub for version control and collaboration, ensuring an organized and efficient workflow. By analyzing and visualizing sales data, the business can optimize strategies, enhance customer satisfaction, and achieve better overall performance.
+Implementing these visualizations will provide a comprehensive view of sales performance, helping stakeholders make informed decisions to drive business growth.By analyzing and visualizing sales data, the business can optimize strategies, enhance customer satisfaction, and achieve better overall performance.
 
